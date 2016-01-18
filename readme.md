@@ -4,8 +4,9 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-Lavmoto.
-Sistem informasi Kredit Menggunakan Framework Laravel
+Selamat datang di halaman depan aplikasi Sistem Informasi Kredit Motor LAVMOTO. 
+Silakan log in untuk menggunakan aplikasi.
+Aplikasi ini dibuat untuk melengkapi tugas UAS Rekayasa Aplikasi Internet PHP Framework dan dibuat dengan Framework Laravel
 
 
 
